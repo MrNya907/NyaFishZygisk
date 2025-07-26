@@ -1,0 +1,6 @@
+id=${moduleId}
+name=${moduleName}
+version=${versionName}
+versionCode=${versionCode}
+author=MrNya907@Nya_Fish
+description=Standalone implementation of Zygisk.
